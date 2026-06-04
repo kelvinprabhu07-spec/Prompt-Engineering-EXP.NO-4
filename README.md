@@ -40,5 +40,10 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
-
+  
+  https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-4/blob/main/Ex4_Prompt_Types%20(1).pdf
   RESULT:
+
+
+The experiment was successfully completed by generating prompts for Comparative Analysis, Experiential Perspective, and Everyday Functioning prompt types. Different use cases were created to demonstrate how each prompting technique can be applied to real-world scenarios. The Comparative Analysis prompts helped in evaluating alternatives based on multiple factors, the Experiential Perspective prompts enabled understanding from a specific user's viewpoint, and the Everyday Functioning prompts explained the practical applications of technology in daily life. The activity improved prompt design skills and provided a better understanding of selecting appropriate prompt types for different objectives and contexts.
+
