@@ -42,6 +42,9 @@ Everyday Functioning Prompts:
   OUTPUT:
   
   https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-4/blob/main/Ex4_Prompt_Types%20(1).pdf
+  
+  
+  
   RESULT:
 
 
